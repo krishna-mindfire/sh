@@ -1,4 +1,4 @@
-const AUDIO_ON_OFF = true
+const AUDIO_ON_OFF = false
 const LOWER_PERCENTAGE_FOR_EYE = 0.92
 const HIGHER_PERCENTAGE_FOR_EYE = 1.08
 const AUDIO_BE_STILL_PATH = '/sh/assets/audio/be-still.mp3'
